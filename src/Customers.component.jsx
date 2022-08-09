@@ -1,6 +1,6 @@
 import { Component } from "react";
 import Customer from "./Customer.component";
-const customersArray = [
+export const customersArray = [
   {
     fName: "Lior",
     lName: "David",
